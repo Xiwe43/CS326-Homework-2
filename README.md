@@ -1,5 +1,5 @@
-# CS326-Homework-2
-CS326 Homework 2
+# CS326-Homework-2 hw2.scm
+CS326 Homework 2 hw2.scm
 
 
 Submission:
